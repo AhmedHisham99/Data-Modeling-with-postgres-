@@ -39,4 +39,4 @@ This is the Star schema (shown below) that include one Fact table (songplays) an
 
 <img src="diagram.png" alt="ERD Diagram" width="800"/>
 
-This design will offer flexibility with the queries being used for analysis.
+
